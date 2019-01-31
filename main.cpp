@@ -41,6 +41,7 @@ class Map {
 class Ship:public MapElement {
     List[Trash] trashBin
     void captureTrash();
+    //testing
 };
 
 class Human:public MapElement  {
